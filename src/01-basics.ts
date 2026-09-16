@@ -1,4 +1,13 @@
+interface Friend {
+    name: string;
+    phone: string;
+    age: number
+}
+
+
 // (Optional) Change the names below to your friends.
+
+
 
 const friend1 = {
   name: "Paul Fleming",
