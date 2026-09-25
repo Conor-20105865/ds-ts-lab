@@ -1,5 +1,5 @@
 import {Friend, Colleague, ColleagueHistory } from './myTypes'
-
+//for commit
 //redundant code
 //interface Friend {
 //    name: string;

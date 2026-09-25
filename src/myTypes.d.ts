@@ -1,4 +1,4 @@
-
+//for commit
 export interface Friend {
     name: string;
     phone: string;

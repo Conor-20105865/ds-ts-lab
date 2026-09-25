@@ -1,7 +1,7 @@
 import {Friend, Colleague, EmailContact } from './myTypes'
 import { friends, colleagues } from "./01-basics";
 
-
+//for commit
 function older(f: Friend) : string {
      f.age += 1
      return `${f.name} is now ${f.age}` 
