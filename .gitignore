@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Compiled output
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Environment configuration
+.env
+.env.*
+!.env.example
+
+# Editor and system files
+.idea/
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
